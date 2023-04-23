@@ -1,0 +1,32 @@
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.deps.json
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.runtimeconfig.json
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.runtimeconfig.dev.json
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.dll
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\ref\pract13_1.dll
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.AssemblyInfoInputs.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.AssemblyInfo.cs
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.dll
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\ref\pract13_1.dll
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.deps.json
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.runtimeconfig.dev.json
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.dll
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\bin\Debug\net5.0\pract13_1.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.dll
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\refint\pract13_1.dll
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\pract13_1.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract13_1\pract13_1\obj\Debug\net5.0\ref\pract13_1.dll

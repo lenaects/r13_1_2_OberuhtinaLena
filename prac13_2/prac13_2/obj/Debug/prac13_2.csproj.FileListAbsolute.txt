@@ -1,0 +1,10 @@
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.Form1.resources
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.Properties.Resources.resources
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\bin\Debug\prac13_2.exe.config
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\bin\Debug\prac13_2.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\bin\Debug\prac13_2.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\osnovaalgoritm\prac13_2\prac13_2\obj\Debug\prac13_2.pdb
